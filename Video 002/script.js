@@ -1,2 +1,2 @@
-console.log("Sayandip Manna");
+console.log("Sayandip");
 alert("Welcome to my first website");
